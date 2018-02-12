@@ -1,0 +1,17 @@
+{
+  "name": "stuntcoders/simplemenu",
+  "license": "OSL-3.0",
+  "type": "magento-module",
+  "description": "Stuntcoders Simplemenu",
+  "minimum-stability": "dev",
+  "homepage": "https://github.com/Hevelop/stunt_mage_simple_menu",
+  "authors": [
+    {
+      "name": "Stuntcoders",
+      "email": "hello@stuntcoders.com"
+    }
+  ],
+  "require": {
+    "magento-hackathon/magento-composer-installer": "*"
+  }
+}
